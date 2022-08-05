@@ -1,0 +1,5 @@
+{
+	"SourceFolders": [ "Z:\\Source\\1", "Z:\\Source\\2" ],
+	"TargetFolder": "Z:\\Target",
+	"LogLevel": "debug"
+}

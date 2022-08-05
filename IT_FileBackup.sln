@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT_FileBackup", "IT_FileBackup\IT_FileBackup.csproj", "{59B4CFE4-B51A-4AC1-A0CA-BBD8EA28132D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT_FileBackup_BL", "IT_FileBackup_BL\IT_FileBackup_BL.csproj", "{8320CBB4-3517-41E4-B50F-B0BE9A695455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B4CFE4-B51A-4AC1-A0CA-BBD8EA28132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B4CFE4-B51A-4AC1-A0CA-BBD8EA28132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B4CFE4-B51A-4AC1-A0CA-BBD8EA28132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B4CFE4-B51A-4AC1-A0CA-BBD8EA28132D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8320CBB4-3517-41E4-B50F-B0BE9A695455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8320CBB4-3517-41E4-B50F-B0BE9A695455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8320CBB4-3517-41E4-B50F-B0BE9A695455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8320CBB4-3517-41E4-B50F-B0BE9A695455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6CA43D-55D8-414B-AEF0-7E38A125B8B7}
+	EndGlobalSection
+EndGlobal
